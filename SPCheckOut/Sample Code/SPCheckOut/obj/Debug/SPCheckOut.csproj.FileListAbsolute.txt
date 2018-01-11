@@ -1,0 +1,4 @@
+C:\Users\jay.chang\Desktop\SPCheckOut\SPCheckOut\bin\SPCheckOut.dll
+C:\Users\jay.chang\Desktop\SPCheckOut\SPCheckOut\bin\SPCheckOut.pdb
+C:\Users\jay.chang\Desktop\SPCheckOut\SPCheckOut\obj\Debug\SPCheckOut.dll
+C:\Users\jay.chang\Desktop\SPCheckOut\SPCheckOut\obj\Debug\SPCheckOut.pdb
