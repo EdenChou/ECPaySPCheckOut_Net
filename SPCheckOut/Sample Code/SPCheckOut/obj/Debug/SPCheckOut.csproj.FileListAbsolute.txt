@@ -2,3 +2,8 @@ C:\Users\jay.chang\Desktop\SPCheckOut\SPCheckOut\bin\SPCheckOut.dll
 C:\Users\jay.chang\Desktop\SPCheckOut\SPCheckOut\bin\SPCheckOut.pdb
 C:\Users\jay.chang\Desktop\SPCheckOut\SPCheckOut\obj\Debug\SPCheckOut.dll
 C:\Users\jay.chang\Desktop\SPCheckOut\SPCheckOut\obj\Debug\SPCheckOut.pdb
+C:\Users\carter.liao\Downloads\ECPaySPCheckOut_Net-master (1)\ECPaySPCheckOut_Net-master\SPCheckOut\Sample Code\SPCheckOut\bin\SPCheckOut.dll
+C:\Users\carter.liao\Downloads\ECPaySPCheckOut_Net-master (1)\ECPaySPCheckOut_Net-master\SPCheckOut\Sample Code\SPCheckOut\bin\SPCheckOut.pdb
+C:\Users\carter.liao\Downloads\ECPaySPCheckOut_Net-master (1)\ECPaySPCheckOut_Net-master\SPCheckOut\Sample Code\SPCheckOut\obj\Debug\SPCheckOut.csprojResolveAssemblyReference.cache
+C:\Users\carter.liao\Downloads\ECPaySPCheckOut_Net-master (1)\ECPaySPCheckOut_Net-master\SPCheckOut\Sample Code\SPCheckOut\obj\Debug\SPCheckOut.dll
+C:\Users\carter.liao\Downloads\ECPaySPCheckOut_Net-master (1)\ECPaySPCheckOut_Net-master\SPCheckOut\Sample Code\SPCheckOut\obj\Debug\SPCheckOut.pdb

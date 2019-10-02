@@ -29,7 +29,7 @@ namespace ECPay.Payment.Samples.SPCheckOutSample
                 oPayment.Send.TradeDesc = "test";  //交易描述
                 oPayment.Send.MerchantID = "2000132";  //合作特店編號
                 oPayment.Send.NeedExtraPaidInfo = "N";  //額外回傳參數
-
+                oPayment.Send.ClientBackURL = ""; //Client端返回特店的按鈕
 
 
 
