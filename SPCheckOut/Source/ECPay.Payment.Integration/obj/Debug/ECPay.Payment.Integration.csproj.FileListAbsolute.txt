@@ -1,0 +1,5 @@
+D:\Ecpay\ECpayAIO_Net\ECPay.Payment.Integration\bin\Debug\ECPay.Payment.Integration.xml
+D:\Ecpay\ECpayAIO_Net\ECPay.Payment.Integration\bin\Debug\ECPay.Payment.Integration.dll
+D:\Ecpay\ECpayAIO_Net\ECPay.Payment.Integration\bin\Debug\ECPay.Payment.Integration.pdb
+D:\Ecpay\ECpayAIO_Net\ECPay.Payment.Integration\obj\Debug\ECPay.Payment.Integration.dll
+D:\Ecpay\ECpayAIO_Net\ECPay.Payment.Integration\obj\Debug\ECPay.Payment.Integration.pdb
